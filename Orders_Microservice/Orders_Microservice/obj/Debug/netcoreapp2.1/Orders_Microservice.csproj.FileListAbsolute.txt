@@ -1,0 +1,3 @@
+C:\Users\q5081793\Source\repos\Orders_Microservice\Orders_Microservice\obj\Debug\netcoreapp2.1\Orders_Microservice.csproj.CoreCompileInputs.cache
+C:\Users\q5081793\Source\repos\Orders_Microservice\Orders_Microservice\obj\Debug\netcoreapp2.1\Orders_Microservice.AssemblyInfoInputs.cache
+C:\Users\q5081793\Source\repos\Orders_Microservice\Orders_Microservice\obj\Debug\netcoreapp2.1\Orders_Microservice.AssemblyInfo.cs
