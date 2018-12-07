@@ -8,10 +8,10 @@ using Orders_Microservice.Models;
 
 namespace Orders_Microservice.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
+    
     public class OrderController : Controller
     {
+        private ApplicationDbContext _dbContext;
         public IActionResult Index()
         {
             return View();
