@@ -1,0 +1,22 @@
+E:\Final Year\Software Architecture\swa-com3041-files-RepriseMyProducks\Producks.Model\obj\Debug\Producks.Model.csprojResolveAssemblyReference.cache
+E:\Final Year\Software Architecture\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\Producks.Model.dll.config
+E:\Final Year\Software Architecture\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\Producks.Model.dll
+E:\Final Year\Software Architecture\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\Producks.Model.pdb
+E:\Final Year\Software Architecture\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\EntityFramework.dll
+E:\Final Year\Software Architecture\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Final Year\Software Architecture\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\EntityFramework.xml
+E:\Final Year\Software Architecture\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Final Year\Software Architecture\swa-com3041-files-RepriseMyProducks\Producks.Model\obj\Debug\Producks.Model.dll
+E:\Final Year\Software Architecture\swa-com3041-files-RepriseMyProducks\Producks.Model\obj\Debug\Producks.Model.pdb
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\Producks.Model.dll.config
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\Producks.Model.dll
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\Producks.Model.pdb
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\EntityFramework.dll
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\EntityFramework.xml
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\obj\Debug\Producks.Model.csprojAssemblyReference.cache
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\obj\Debug\Producks.Model.csproj.CoreCompileInputs.cache
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\obj\Debug\Producks.Model.csproj.CopyComplete
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\obj\Debug\Producks.Model.dll
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\obj\Debug\Producks.Model.pdb

@@ -1,0 +1,86 @@
+﻿@model IEnumerable<Producks.Model.Order>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Total)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderItems)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.street)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.postCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Country)
+        </th>
+        <th>
+           @Html.Display("{Payment Source:")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var model in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => model.OrderDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => model.Status)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => model.Total)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => model.description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => model.street)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => model.postCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => model.Country)
+        </td>
+        <td>
+            @{ if (!Model.Select(x => x.OrderCard).Equals(null))
+                {
+                    @Html.Display("Card has been provided")
+                }
+                else
+                {
+                    @Html.Display("Payment Source does not exist")
+                }
+            }
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = model.Id }) |
+            @Html.ActionLink("Details", "Details", new { id = model.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id = model.Id })
+        </td>
+    </tr>
+}
+
+</table>

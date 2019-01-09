@@ -1,0 +1,12 @@
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\obj\Debug\Orders.Model.csprojAssemblyReference.cache
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\obj\Debug\Orders.Model.csproj.CoreCompileInputs.cache
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\obj\Debug\Producks.Model.dll
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\obj\Debug\Producks.Model.pdb
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\Producks.Model.dll.config
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\Producks.Model.dll
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\Producks.Model.pdb
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\EntityFramework.dll
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\EntityFramework.xml
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\q5081793\source\repos\swa-com3041-files-RepriseMyProducks\Producks.Model\obj\Debug\Orders.Model.csproj.CopyComplete
