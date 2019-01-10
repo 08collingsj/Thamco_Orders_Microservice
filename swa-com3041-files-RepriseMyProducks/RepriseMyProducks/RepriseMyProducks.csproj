@@ -179,7 +179,9 @@
     <Compile Include="Controllers\ProductsController.cs" />
     <Compile Include="Controllers\ThamcoAPIController.cs" />
     <Compile Include="Dtos\Brand.cs" />
+    <Compile Include="Dtos\Order-Item.cs" />
     <Compile Include="Dtos\Order.cs" />
+    <Compile Include="Dtos\User.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

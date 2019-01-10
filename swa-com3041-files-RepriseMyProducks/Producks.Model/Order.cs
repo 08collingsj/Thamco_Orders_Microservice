@@ -15,6 +15,8 @@ namespace Producks.Model
         public virtual string description { get; set; }
         public virtual List<OrderItem> OrderItems { get; set; }
 
+        public virtual User OrderedBy { get; set; }
+        public virtual int customerID { get; set; }
         public virtual string street { get; set; }
         public virtual string postCode { get; set; }
         public virtual string Country { get; set; }

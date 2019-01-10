@@ -52,6 +52,9 @@
     <Compile Include="Brand.cs" />
     <Compile Include="Card.cs" />
     <Compile Include="Category.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="FakeMessage.cs" />
+    <Compile Include="Invite.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="OrderDb.cs" />
     <Compile Include="OrderItem.cs" />

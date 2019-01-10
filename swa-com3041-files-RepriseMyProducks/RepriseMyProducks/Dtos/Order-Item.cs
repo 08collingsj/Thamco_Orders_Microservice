@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Web;
 
-namespace Producks.Model
+namespace RepriseMyProducks.Dtos
 {
-    public class OrderItem
+    public class Order_Item
     {
         public virtual int Id { get; set; }
         public virtual int OrderId { get; set; }
